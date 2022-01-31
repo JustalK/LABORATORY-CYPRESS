@@ -1,5 +1,7 @@
 {
   "viewportWidth": 1200,
   "viewportHeight": 800,
-  "experimentalStudio": true
+  "experimentalStudio": true,
+  "trashAssetsBeforeRuns": true,
+  "videoUploadOnPasses": false
 }
